@@ -21,6 +21,7 @@ Spring Boot
 - Lombok
 - Spring Boot DevTools
 - Spring Configuration Processor
+
 그 외
 
 - QueryDSL 5.0.0
