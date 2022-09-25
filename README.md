@@ -1,7 +1,10 @@
 # 게시판 서비스 - 백엔드 웹개발
 
 ## 개발 환경
-- Intellij IDEA Ultimate 2022.1.1 ~ 2022.1.3
+- 개발도구 : Intellij IDEA Ultimate 2022.1.1 ~ 2022.1.3
+- 소스코드 관리 : Git 2.36.1
+- Git 호스팅 : GitHub
+- Git GUI : GitKraken Pro 8.5.0
 - Java 17
 - Gradle 7.4.1
 - Spring Boot 2.7.0
